@@ -1,3 +1,5 @@
+Note: Currently adding a GUI and fixing some stuff
+
 I got tired of screwing around with updating addons for minecraft bedrock and now this exists.
 
 What it does: Will check files in your minecraft resource packs folder by what is in a folder containing the new versions of addons. If there are any name matches, the script will backup your old versions, then delete the current installed ones so you can mindlessly double click the new version in peace.
