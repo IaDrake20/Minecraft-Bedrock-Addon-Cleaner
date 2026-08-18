@@ -1,4 +1,4 @@
-Note: Currently adding a GUI and fixing some stuff
+Note: Currently adding it to work for resource packs
 
 I got tired of screwing around with updating addons for minecraft bedrock and now this exists.
 
