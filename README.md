@@ -1,4 +1,4 @@
-Note: Currently adding it to work for resource packs
+Note: Currently adding it to work for resource packs, also will add a better initial on boarding when you first run it
 
 I got tired of screwing around with updating addons for minecraft bedrock and now this exists.
 
